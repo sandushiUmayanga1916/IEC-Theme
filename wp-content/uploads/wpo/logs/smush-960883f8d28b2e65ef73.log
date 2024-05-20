@@ -1,0 +1,283 @@
+[2024-02-15 05:55:11 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-02-15 05:55:12 : INFO] - A total of 44 tasks of type smush found and will be processed in this iteration 
+[2024-02-15 05:55:12 : DEBUG] - Lock option (updraft_lock_smush, ic_options) was created in the database 
+[2024-02-15 05:55:12 : INFO] - Lock (updraft_lock_smush, ic_options) acquired after initialising the database 
+[2024-02-15 05:55:12 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-02-15 05:55:12 : INFO] - Re_Smush_It_Task - Attachment ID : 33, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:12 : INFO] - File: logo.png, Compression quality: 60 
+[2024-02-15 05:55:13 : INFO] - Backing up the original image - 2024/02/logo-updraft-pre-smush-original.png 
+[2024-02-15 05:55:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/logo.png.The file was compressed from 12.15 KB to 5.43 KB, saving 55.33 percent, using WP-Optimize 
+[2024-02-15 05:55:15 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-02-15 05:55:15 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-02-15 05:55:15 : INFO] - Re_Smush_It_Task - Attachment ID : 48, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:15 : INFO] - File: button.png, Compression quality: 60 
+[2024-02-15 05:55:16 : INFO] - Backing up the original image - 2024/02/button-updraft-pre-smush-original.png 
+[2024-02-15 05:55:17 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/button.png.The file was compressed from 7.99 KB to 4.06 KB, saving 49.12 percent, using WP-Optimize 
+[2024-02-15 05:55:17 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-02-15 05:55:17 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2024-02-15 05:55:17 : INFO] - Re_Smush_It_Task - Attachment ID : 72, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:17 : INFO] - File: read-more.png, Compression quality: 60 
+[2024-02-15 05:55:19 : INFO] - Backing up the original image - 2024/02/read-more-updraft-pre-smush-original.png 
+[2024-02-15 05:55:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/read-more.png.The file was compressed from 8.04 KB to 4.14 KB, saving 48.49 percent, using WP-Optimize 
+[2024-02-15 05:55:19 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2024-02-15 05:55:19 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2024-02-15 05:55:19 : INFO] - Re_Smush_It_Task - Attachment ID : 74, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:19 : INFO] - File: icon-2.png, Compression quality: 60 
+[2024-02-15 05:55:20 : INFO] - Backing up the original image - 2024/02/icon-2-updraft-pre-smush-original.png 
+[2024-02-15 05:55:20 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/icon-2.png.The file was compressed from 3.77 KB to 1.64 KB, saving 56.5 percent, using WP-Optimize 
+[2024-02-15 05:55:20 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2024-02-15 05:55:20 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2024-02-15 05:55:20 : INFO] - Re_Smush_It_Task - Attachment ID : 75, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:20 : INFO] - File: icon-3.png, Compression quality: 60 
+[2024-02-15 05:55:21 : INFO] - Backing up the original image - 2024/02/icon-3-updraft-pre-smush-original.png 
+[2024-02-15 05:55:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/icon-3.png.The file was compressed from 2.47 KB to 1.16 KB, saving 52.91 percent, using WP-Optimize 
+[2024-02-15 05:55:21 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2024-02-15 05:55:21 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2024-02-15 05:55:21 : INFO] - Re_Smush_It_Task - Attachment ID : 76, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:21 : INFO] - File: icon-1.png, Compression quality: 60 
+[2024-02-15 05:55:23 : INFO] - Backing up the original image - 2024/02/icon-1-updraft-pre-smush-original.png 
+[2024-02-15 05:55:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/icon-1.png.The file was compressed from 3.23 KB to 1.38 KB, saving 57.2 percent, using WP-Optimize 
+[2024-02-15 05:55:23 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2024-02-15 05:55:23 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2024-02-15 05:55:23 : INFO] - Re_Smush_It_Task - Attachment ID : 100, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:23 : INFO] - File: pic.png, Compression quality: 60 
+[2024-02-15 05:55:23 : INFO] - Backing up the original image - 2024/02/pic-updraft-pre-smush-original.png 
+[2024-02-15 05:55:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/pic.png.The file was compressed from 7.68 KB to 3.16 KB, saving 58.83 percent, using WP-Optimize 
+[2024-02-15 05:55:24 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2024-02-15 05:55:24 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2024-02-15 05:55:24 : INFO] - Re_Smush_It_Task - Attachment ID : 111, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:24 : INFO] - File: oifjoEFJNOEJFG-1.png, Compression quality: 60 
+[2024-02-15 05:55:24 : INFO] - Backing up the original image - 2024/02/oifjoEFJNOEJFG-1-updraft-pre-smush-original.png 
+[2024-02-15 05:55:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/oifjoEFJNOEJFG-1.png.The file was compressed from 9.44 KB to 6.15 KB, saving 34.86 percent, using WP-Optimize 
+[2024-02-15 05:55:26 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2024-02-15 05:55:26 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2024-02-15 05:55:26 : INFO] - Re_Smush_It_Task - Attachment ID : 120, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:26 : INFO] - File: 30-year-logo.png, Compression quality: 60 
+[2024-02-15 05:55:27 : INFO] - Backing up the original image - 2024/02/30-year-logo-updraft-pre-smush-original.png 
+[2024-02-15 05:55:28 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/30-year-logo.png.The file was compressed from 15.55 KB to 5.78 KB, saving 62.85 percent, using WP-Optimize 
+[2024-02-15 05:55:28 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2024-02-15 05:55:28 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2024-02-15 05:55:28 : INFO] - Re_Smush_It_Task - Attachment ID : 121, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:28 : INFO] - File: footer-logo.png, Compression quality: 60 
+[2024-02-15 05:55:29 : INFO] - Backing up the original image - 2024/02/footer-logo-updraft-pre-smush-original.png 
+[2024-02-15 05:55:31 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/footer-logo.png.The file was compressed from 9.17 KB to 5.17 KB, saving 43.65 percent, using WP-Optimize 
+[2024-02-15 05:55:31 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2024-02-15 05:55:31 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2024-02-15 05:55:31 : INFO] - Re_Smush_It_Task - Attachment ID : 122, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:31 : INFO] - File: in.png, Compression quality: 60 
+[2024-02-15 05:55:32 : INFO] - Backing up the original image - 2024/02/in-updraft-pre-smush-original.png 
+[2024-02-15 05:55:32 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/in.png.The file was compressed from 1.43 KB to 820 bytes, saving 43.91 percent, using WP-Optimize 
+[2024-02-15 05:55:32 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2024-02-15 05:55:32 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2024-02-15 05:55:32 : INFO] - Re_Smush_It_Task - Attachment ID : 123, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:32 : INFO] - File: lin.png, Compression quality: 60 
+[2024-02-15 05:55:33 : INFO] - Backing up the original image - 2024/02/lin-updraft-pre-smush-original.png 
+[2024-02-15 05:55:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/lin.png.The file was compressed from 1.39 KB to 912 bytes, saving 35.73 percent, using WP-Optimize 
+[2024-02-15 05:55:33 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2024-02-15 05:55:33 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2024-02-15 05:55:33 : INFO] - Re_Smush_It_Task - Attachment ID : 124, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:33 : INFO] - File: you.png, Compression quality: 60 
+[2024-02-15 05:55:33 : INFO] - Backing up the original image - 2024/02/you-updraft-pre-smush-original.png 
+[2024-02-15 05:55:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/you.png.The file was compressed from 1.33 KB to 920 bytes, saving 32.7 percent, using WP-Optimize 
+[2024-02-15 05:55:33 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2024-02-15 05:55:33 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2024-02-15 05:55:33 : INFO] - Re_Smush_It_Task - Attachment ID : 125, Started on : February 15, 2024 05:55:11 
+[2024-02-15 05:55:33 : INFO] - File: fb.png, Compression quality: 60 
+[2024-02-15 05:55:34 : INFO] - Backing up the original image - 2024/02/fb-updraft-pre-smush-original.png 
+[2024-02-15 05:55:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/fb.png.The file was compressed from 1.02 KB to 651 bytes, saving 37.94 percent, using WP-Optimize 
+[2024-02-15 05:55:34 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2024-02-15 05:55:34 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2024-02-15 05:55:34 : INFO] - Re_Smush_It_Task - Attachment ID : 126, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:34 : INFO] - File: canada.png, Compression quality: 60 
+[2024-02-15 05:55:35 : INFO] - Backing up the original image - 2024/02/canada-updraft-pre-smush-original.png 
+[2024-02-15 05:55:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/canada.png.The file was compressed from 1016 bytes to 871 bytes, saving 14.27 percent, using WP-Optimize 
+[2024-02-15 05:55:35 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2024-02-15 05:55:35 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2024-02-15 05:55:35 : INFO] - Re_Smush_It_Task - Attachment ID : 127, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:35 : INFO] - File: australia.png, Compression quality: 60 
+[2024-02-15 05:55:36 : INFO] - Backing up the original image - 2024/02/australia-updraft-pre-smush-original.png 
+[2024-02-15 05:55:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/australia.png.The file was compressed from 1.58 KB to 1.39 KB, saving 12.14 percent, using WP-Optimize 
+[2024-02-15 05:55:36 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2024-02-15 05:55:36 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2024-02-15 05:55:36 : INFO] - Re_Smush_It_Task - Attachment ID : 128, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:36 : INFO] - File: new-zealand.png, Compression quality: 60 
+[2024-02-15 05:55:37 : INFO] - Backing up the original image - 2024/02/new-zealand-updraft-pre-smush-original.png 
+[2024-02-15 05:55:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/new-zealand.png.The file was compressed from 828 bytes to 711 bytes, saving 14.13 percent, using WP-Optimize 
+[2024-02-15 05:55:37 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2024-02-15 05:55:37 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2024-02-15 05:55:37 : INFO] - Re_Smush_It_Task - Attachment ID : 129, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:37 : INFO] - File: uk.png, Compression quality: 60 
+[2024-02-15 05:55:38 : INFO] - Backing up the original image - 2024/02/uk-updraft-pre-smush-original.png 
+[2024-02-15 05:55:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/uk.png.The file was compressed from 2.07 KB to 1.54 KB, saving 25.48 percent, using WP-Optimize 
+[2024-02-15 05:55:38 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2024-02-15 05:55:38 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2024-02-15 05:55:38 : INFO] - Re_Smush_It_Task - Attachment ID : 130, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:38 : INFO] - File: canada-sm.png, Compression quality: 60 
+[2024-02-15 05:55:39 : INFO] - Backing up the original image - 2024/02/canada-sm-updraft-pre-smush-original.png 
+[2024-02-15 05:55:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/canada-sm.png.The file was compressed from 554 bytes to 515 bytes, saving 7.04 percent, using WP-Optimize 
+[2024-02-15 05:55:39 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2024-02-15 05:55:39 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2024-02-15 05:55:39 : INFO] - Re_Smush_It_Task - Attachment ID : 173, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:39 : INFO] - File: flag.png, Compression quality: 60 
+[2024-02-15 05:55:39 : INFO] - Backing up the original image - 2024/02/flag-updraft-pre-smush-original.png 
+[2024-02-15 05:55:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/flag.png.The file was compressed from 844 bytes to 787 bytes, saving 6.75 percent, using WP-Optimize 
+[2024-02-15 05:55:39 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2024-02-15 05:55:39 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2024-02-15 05:55:39 : INFO] - Re_Smush_It_Task - Attachment ID : 174, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:39 : INFO] - File: world-flag.png, Compression quality: 60 
+[2024-02-15 05:55:40 : INFO] - Backing up the original image - 2024/02/world-flag-updraft-pre-smush-original.png 
+[2024-02-15 05:55:40 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/world-flag.png.The file was compressed from 719 bytes to 673 bytes, saving 6.4 percent, using WP-Optimize 
+[2024-02-15 05:55:40 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2024-02-15 05:55:40 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2024-02-15 05:55:40 : INFO] - Re_Smush_It_Task - Attachment ID : 176, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:40 : INFO] - File: Ellipse-43.png, Compression quality: 60 
+[2024-02-15 05:55:41 : INFO] - Backing up the original image - 2024/02/Ellipse-43-updraft-pre-smush-original.png 
+[2024-02-15 05:55:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/Ellipse-43.png.The file was compressed from 5.78 KB to 2.86 KB, saving 50.53 percent, using WP-Optimize 
+[2024-02-15 05:55:41 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2024-02-15 05:55:41 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2024-02-15 05:55:41 : INFO] - Re_Smush_It_Task - Attachment ID : 178, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:41 : INFO] - File: Ellipse-44.png, Compression quality: 60 
+[2024-02-15 05:55:42 : INFO] - Backing up the original image - 2024/02/Ellipse-44-updraft-pre-smush-original.png 
+[2024-02-15 05:55:42 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/Ellipse-44.png.The file was compressed from 5.91 KB to 3.00 KB, saving 49.26 percent, using WP-Optimize 
+[2024-02-15 05:55:42 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2024-02-15 05:55:42 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2024-02-15 05:55:42 : INFO] - Re_Smush_It_Task - Attachment ID : 188, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:42 : INFO] - File: New-Project.png, Compression quality: 60 
+[2024-02-15 05:55:44 : INFO] - Backing up the original image - 2024/02/New-Project-updraft-pre-smush-original.png 
+[2024-02-15 05:55:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project.png.The file was compressed from 24.54 KB to 11.48 KB, saving 53.23 percent, using WP-Optimize 
+[2024-02-15 05:55:46 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2024-02-15 05:55:46 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2024-02-15 05:55:46 : INFO] - Re_Smush_It_Task - Attachment ID : 190, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:46 : INFO] - File: New-Project-2.png, Compression quality: 60 
+[2024-02-15 05:55:47 : INFO] - Backing up the original image - 2024/02/New-Project-2-updraft-pre-smush-original.png 
+[2024-02-15 05:55:49 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-2.png.The file was compressed from 17.16 KB to 8.84 KB, saving 48.47 percent, using WP-Optimize 
+[2024-02-15 05:55:49 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2024-02-15 05:55:49 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2024-02-15 05:55:49 : INFO] - Re_Smush_It_Task - Attachment ID : 191, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:49 : INFO] - File: New-Project-3.png, Compression quality: 60 
+[2024-02-15 05:55:50 : INFO] - Backing up the original image - 2024/02/New-Project-3-updraft-pre-smush-original.png 
+[2024-02-15 05:55:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-3.png.The file was compressed from 23.90 KB to 10.75 KB, saving 55.03 percent, using WP-Optimize 
+[2024-02-15 05:55:52 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2024-02-15 05:55:52 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2024-02-15 05:55:52 : INFO] - Re_Smush_It_Task - Attachment ID : 193, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:52 : INFO] - File: New-Project-5.png, Compression quality: 60 
+[2024-02-15 05:55:53 : INFO] - Backing up the original image - 2024/02/New-Project-5-updraft-pre-smush-original.png 
+[2024-02-15 05:55:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-5.png.The file was compressed from 22.29 KB to 10.17 KB, saving 54.36 percent, using WP-Optimize 
+[2024-02-15 05:55:55 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2024-02-15 05:55:55 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2024-02-15 05:55:56 : INFO] - Re_Smush_It_Task - Attachment ID : 194, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:56 : INFO] - File: New-Project-4.png, Compression quality: 60 
+[2024-02-15 05:55:56 : INFO] - Backing up the original image - 2024/02/New-Project-4-updraft-pre-smush-original.png 
+[2024-02-15 05:55:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-4.png.The file was compressed from 16.25 KB to 8.02 KB, saving 50.66 percent, using WP-Optimize 
+[2024-02-15 05:55:59 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2024-02-15 05:55:59 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2024-02-15 05:55:59 : INFO] - Re_Smush_It_Task - Attachment ID : 199, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:55:59 : INFO] - File: New-Project-1.png, Compression quality: 60 
+[2024-02-15 05:56:00 : INFO] - Backing up the original image - 2024/02/New-Project-1-updraft-pre-smush-original.png 
+[2024-02-15 05:56:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-1.png.The file was compressed from 23.54 KB to 12.83 KB, saving 45.47 percent, using WP-Optimize 
+[2024-02-15 05:56:02 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2024-02-15 05:56:02 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2024-02-15 05:56:02 : INFO] - Re_Smush_It_Task - Attachment ID : 201, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:02 : INFO] - File: New-Project-1-1.png, Compression quality: 60 
+[2024-02-15 05:56:03 : INFO] - Backing up the original image - 2024/02/New-Project-1-1-updraft-pre-smush-original.png 
+[2024-02-15 05:56:05 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-1-1.png.The file was compressed from 18.12 KB to 8.28 KB, saving 54.33 percent, using WP-Optimize 
+[2024-02-15 05:56:05 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2024-02-15 05:56:05 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2024-02-15 05:56:05 : INFO] - Re_Smush_It_Task - Attachment ID : 202, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:05 : INFO] - File: New-Project-3-1.png, Compression quality: 60 
+[2024-02-15 05:56:06 : INFO] - Backing up the original image - 2024/02/New-Project-3-1-updraft-pre-smush-original.png 
+[2024-02-15 05:56:09 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-3-1.png.The file was compressed from 28.71 KB to 10.84 KB, saving 62.25 percent, using WP-Optimize 
+[2024-02-15 05:56:09 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2024-02-15 05:56:09 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2024-02-15 05:56:09 : INFO] - Re_Smush_It_Task - Attachment ID : 203, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:09 : INFO] - File: New-Project-2-1.png, Compression quality: 60 
+[2024-02-15 05:56:10 : INFO] - Backing up the original image - 2024/02/New-Project-2-1-updraft-pre-smush-original.png 
+[2024-02-15 05:56:11 : INFO] - A total of 13 tasks of type smush found and will be processed in this iteration 
+[2024-02-15 05:56:11 : DEBUG] - Lock option (updraft_lock_smush, ic_options) already existed in the database 
+[2024-02-15 05:56:11 : INFO] - Lock (updraft_lock_smush, ic_options) could not be acquired (it is locked) 
+[2024-02-15 05:56:11 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-02-15 05:56:11 : INFO] - Cleaning up tasks of type (smush). A total of 31 tasks will be deleted. 
+[2024-02-15 05:56:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-2-1.png.The file was compressed from 9.91 KB to 5.70 KB, saving 42.5 percent, using WP-Optimize 
+[2024-02-15 05:56:11 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2024-02-15 05:56:11 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2024-02-15 05:56:11 : INFO] - Re_Smush_It_Task - Attachment ID : 205, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:11 : INFO] - File: New-Project-4-1.png, Compression quality: 60 
+[2024-02-15 05:56:12 : INFO] - Backing up the original image - 2024/02/New-Project-4-1-updraft-pre-smush-original.png 
+[2024-02-15 05:56:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-4-1.png.The file was compressed from 6.69 KB to 6.47 KB, saving 3.3 percent, using WP-Optimize 
+[2024-02-15 05:56:14 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2024-02-15 05:56:14 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2024-02-15 05:56:14 : INFO] - Re_Smush_It_Task - Attachment ID : 214, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:14 : INFO] - File: New-Project-6.png, Compression quality: 60 
+[2024-02-15 05:56:15 : INFO] - Backing up the original image - 2024/02/New-Project-6-updraft-pre-smush-original.png 
+[2024-02-15 05:56:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-6.png.The file was compressed from 3.67 KB to 2.75 KB, saving 25.11 percent, using WP-Optimize 
+[2024-02-15 05:56:15 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2024-02-15 05:56:15 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2024-02-15 05:56:15 : INFO] - Re_Smush_It_Task - Attachment ID : 215, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:15 : INFO] - File: New-Project-5-1.png, Compression quality: 60 
+[2024-02-15 05:56:17 : INFO] - Backing up the original image - 2024/02/New-Project-5-1-updraft-pre-smush-original.png 
+[2024-02-15 05:56:17 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-5-1.png.The file was compressed from 1.41 KB to 1.41 KB, saving 0.55 percent, using WP-Optimize 
+[2024-02-15 05:56:17 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2024-02-15 05:56:17 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2024-02-15 05:56:17 : INFO] - Re_Smush_It_Task - Attachment ID : 217, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:17 : INFO] - File: New-Project-5-2.png, Compression quality: 60 
+[2024-02-15 05:56:18 : INFO] - Backing up the original image - 2024/02/New-Project-5-2-updraft-pre-smush-original.png 
+[2024-02-15 05:56:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/New-Project-5-2.png.The file was compressed from 1.20 KB to 1.19 KB, saving 0.65 percent, using WP-Optimize 
+[2024-02-15 05:56:18 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2024-02-15 05:56:18 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2024-02-15 05:56:18 : INFO] - Re_Smush_It_Task - Attachment ID : 219, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:18 : INFO] - File: favicon.png, Compression quality: 60 
+[2024-02-15 05:56:19 : INFO] - Backing up the original image - 2024/02/favicon-updraft-pre-smush-original.png 
+[2024-02-15 05:56:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/favicon.png.The file was compressed from 7.41 KB to 4.62 KB, saving 37.64 percent, using WP-Optimize 
+[2024-02-15 05:56:19 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2024-02-15 05:56:19 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2024-02-15 05:56:19 : INFO] - Re_Smush_It_Task - Attachment ID : 247, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:19 : INFO] - File: banner-1-min.png, Compression quality: 60 
+[2024-02-15 05:56:22 : INFO] - Backing up the original image - 2024/02/banner-1-min-updraft-pre-smush-original.png 
+[2024-02-15 05:56:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/banner-1-min.png.The file was compressed from 418.81 KB to 418.81 KB, saving 0 percent, using WP-Optimize 
+[2024-02-15 05:56:36 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2024-02-15 05:56:36 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2024-02-15 05:56:36 : INFO] - Re_Smush_It_Task - Attachment ID : 249, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:36 : INFO] - File: world-min.png, Compression quality: 60 
+[2024-02-15 05:56:38 : INFO] - Backing up the original image - 2024/02/world-min-updraft-pre-smush-original.png 
+[2024-02-15 05:56:44 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/world-min.png.The file was compressed from 57.45 KB to 57.45 KB, saving 0 percent, using WP-Optimize 
+[2024-02-15 05:56:44 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2024-02-15 05:56:44 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2024-02-15 05:56:44 : INFO] - Re_Smush_It_Task - Attachment ID : 252, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:56:44 : INFO] - File: cover-min.png, Compression quality: 60 
+[2024-02-15 05:56:49 : INFO] - Backing up the original image - 2024/02/cover-min-updraft-pre-smush-original.png 
+[2024-02-15 05:57:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/cover-min.png.The file was compressed from 490.03 KB to 490.03 KB, saving 0 percent, using WP-Optimize 
+[2024-02-15 05:57:01 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2024-02-15 05:57:01 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2024-02-15 05:57:01 : INFO] - Re_Smush_It_Task - Attachment ID : 254, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:57:01 : INFO] - File: new-zealand-1-1.png, Compression quality: 60 
+[2024-02-15 05:57:03 : INFO] - Backing up the original image - 2024/02/new-zealand-1-1-updraft-pre-smush-original.png 
+[2024-02-15 05:57:06 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/new-zealand-1-1.png.The file was compressed from 137.38 KB to 137.33 KB, saving 0.04 percent, using WP-Optimize 
+[2024-02-15 05:57:06 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2024-02-15 05:57:06 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2024-02-15 05:57:06 : INFO] - Re_Smush_It_Task - Attachment ID : 255, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:57:06 : INFO] - File: uk-1.png, Compression quality: 60 
+[2024-02-15 05:57:07 : INFO] - Backing up the original image - 2024/02/uk-1-updraft-pre-smush-original.png 
+[2024-02-15 05:57:11 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2024-02-15 05:57:11 : DEBUG] - Lock option (updraft_lock_smush, ic_options) already existed in the database 
+[2024-02-15 05:57:11 : INFO] - Lock (updraft_lock_smush, ic_options) could not be acquired (it is locked) 
+[2024-02-15 05:57:11 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-02-15 05:57:11 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 
+[2024-02-15 05:57:13 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/uk-1.png.The file was compressed from 135.72 KB to 135.72 KB, saving 0 percent, using WP-Optimize 
+[2024-02-15 05:57:13 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2024-02-15 05:57:13 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2024-02-15 05:57:13 : INFO] - Re_Smush_It_Task - Attachment ID : 256, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:57:13 : INFO] - File: aus-1.png, Compression quality: 60 
+[2024-02-15 05:57:15 : INFO] - Backing up the original image - 2024/02/aus-1-updraft-pre-smush-original.png 
+[2024-02-15 05:57:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/aus-1.png.The file was compressed from 121.86 KB to 121.86 KB, saving 0 percent, using WP-Optimize 
+[2024-02-15 05:57:18 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2024-02-15 05:57:18 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2024-02-15 05:57:18 : INFO] - Re_Smush_It_Task - Attachment ID : 257, Started on : February 15, 2024 05:55:12 
+[2024-02-15 05:57:18 : INFO] - File: canada-1-1.png, Compression quality: 60 
+[2024-02-15 05:57:20 : INFO] - Backing up the original image - 2024/02/canada-1-1-updraft-pre-smush-original.png 
+[2024-02-15 05:57:25 : INFO] - Successfully optimized the image - C:\xampp\htdocs\iec.lk/wp-content/uploads/2024/02/canada-1-1.png.The file was compressed from 175.07 KB to 175.06 KB, saving 0.01 percent, using WP-Optimize 
+[2024-02-15 05:57:25 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2024-02-15 05:57:25 : INFO] - Lock option (updraft_lock_smush, ic_options) released 
+[2024-02-15 05:57:25 : INFO] - Successfully processed the queue (smush). 44 tasks were processed out of 44. 
+[2024-02-15 05:57:25 : INFO] - Lock option (updraft_lock_smush, ic_options) was deleted from the database 
+[2024-02-15 05:57:25 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2024-02-15 08:41:00 : INFO] - Pruning the smush log file 
